@@ -32,3 +32,23 @@ Cuestionarios
 Observación
  - Tipos de información buscadas
  - Observación del ambiente físico
+
+Unidad 3: El proceso de análisis (Contínua)
+
+Preparación de la propuesta de sistemas
+ - Métodos disponibles
+ - Determinación de las necesidades de hardware y software
+ - Identificación y estimación de costos y beneficios
+ - Comparación de costos y beneficios
+
+Unidad 4: EL diseño
+ - Diseño de salidas
+ - Diseño de entradas
+ - Diseño de archivos
+    - Objetivos del diseño
+    - Conceptos de datos
+ - Diseño de la interfaz del usuario
+    - Objetivos de la interfaz del usuario
+    - Diálogos y áreas de trabajo
+    - Diseño de consultas
+    - La productividad y el diseño ergonómico
